@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LibraryGRPC</id>
+    <version>1.0.0</version>
+    <authors>LibraryGRPC</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="Google.Protobuf" version="3.25.1" exclude="Build,Analyzers" />
+        <dependency id="Grpc.Net.Client" version="2.60.0" exclude="Build,Analyzers" />
+        <dependency id="Grpc.Tools" version="2.60.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="9.0.8" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Hosting" version="9.0.8" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Options" version="9.0.8" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Workspace\RedisTest\GRPCService\BookServiceGRPC\LibraryGRPC\bin\Debug\net9.0\LibraryGRPC.dll" target="lib\net9.0\LibraryGRPC.dll" />
+  </files>
+</package>

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "BookServiceGRPC\\BookServiceGRPC.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\CallGRPC\\CallGRPC.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

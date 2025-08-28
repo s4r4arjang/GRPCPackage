@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\RedisTest\\GRPCService\\BookServiceGRPC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2A6625-F670-B198-4A3B-1DCAD7C59B98}|..\\CallGRPC\\CallGRPC.csproj|d:\\workspace\\redistest\\grpcservice\\callgrpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A68D04-9F74-494A-869B-D9451393E91F}|BookServiceGRPC\\BookServiceGRPC.csproj|d:\\workspace\\redistest\\grpcservice\\bookservicegrpc\\bookservicegrpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A68D04-9F74-494A-869B-D9451393E91F}|BookServiceGRPC\\BookServiceGRPC.csproj|solutionrelative:bookservicegrpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445C60FA-2FC0-4C8E-9C72-02B7742A4280}|LibraryGRPC\\LibraryGRPC.csproj|d:\\workspace\\redistest\\grpcservice\\bookservicegrpc\\librarygrpc\\provider\\grpcconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445C60FA-2FC0-4C8E-9C72-02B7742A4280}|LibraryGRPC\\LibraryGRPC.csproj|solutionrelative:librarygrpc\\provider\\grpcconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2A6625-F670-B198-4A3B-1DCAD7C59B98}|..\\CallGRPC\\CallGRPC.csproj|d:\\workspace\\redistest\\grpcservice\\callgrpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445C60FA-2FC0-4C8E-9C72-02B7742A4280}|LibraryGRPC\\LibraryGRPC.csproj|d:\\workspace\\redistest\\grpcservice\\bookservicegrpc\\librarygrpc\\abstractions\\bookmanageroption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445C60FA-2FC0-4C8E-9C72-02B7742A4280}|LibraryGRPC\\LibraryGRPC.csproj|solutionrelative:librarygrpc\\abstractions\\bookmanageroption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A68D04-9F74-494A-869B-D9451393E91F}|BookServiceGRPC\\BookServiceGRPC.csproj|d:\\workspace\\redistest\\grpcservice\\bookservicegrpc\\bookservicegrpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3A68D04-9F74-494A-869B-D9451393E91F}|BookServiceGRPC\\BookServiceGRPC.csproj|solutionrelative:bookservicegrpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445C60FA-2FC0-4C8E-9C72-02B7742A4280}|LibraryGRPC\\LibraryGRPC.csproj|d:\\workspace\\redistest\\grpcservice\\bookservicegrpc\\librarygrpc\\provider\\bookmanagerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445C60FA-2FC0-4C8E-9C72-02B7742A4280}|LibraryGRPC\\LibraryGRPC.csproj|solutionrelative:librarygrpc\\provider\\bookmanagerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445C60FA-2FC0-4C8E-9C72-02B7742A4280}|LibraryGRPC\\LibraryGRPC.csproj|d:\\workspace\\redistest\\grpcservice\\bookservicegrpc\\librarygrpc\\librarygrpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{445C60FA-2FC0-4C8E-9C72-02B7742A4280}|LibraryGRPC\\LibraryGRPC.csproj|solutionrelative:librarygrpc\\librarygrpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2A6625-F670-B198-4A3B-1DCAD7C59B98}|..\\CallGRPC\\CallGRPC.csproj|d:\\workspace\\redistest\\grpcservice\\callgrpc\\callgrpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A68D04-9F74-494A-869B-D9451393E91F}|BookServiceGRPC\\BookServiceGRPC.csproj|d:\\workspace\\redistest\\grpcservice\\bookservicegrpc\\bookservicegrpc\\bookservicegrpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3A68D04-9F74-494A-869B-D9451393E91F}|BookServiceGRPC\\BookServiceGRPC.csproj|solutionrelative:bookservicegrpc\\bookservicegrpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445C60FA-2FC0-4C8E-9C72-02B7742A4280}|LibraryGRPC\\LibraryGRPC.csproj|d:\\workspace\\redistest\\grpcservice\\bookservicegrpc\\librarygrpc\\librarygrpc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{445C60FA-2FC0-4C8E-9C72-02B7742A4280}|LibraryGRPC\\LibraryGRPC.csproj|solutionrelative:librarygrpc\\librarygrpc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2A6625-F670-B198-4A3B-1DCAD7C59B98}|..\\CallGRPC\\CallGRPC.csproj|d:\\workspace\\redistest\\grpcservice\\callgrpc\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A68D04-9F74-494A-869B-D9451393E91F}|BookServiceGRPC\\BookServiceGRPC.csproj|d:\\workspace\\redistest\\grpcservice\\bookservicegrpc\\bookservicegrpc\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A68D04-9F74-494A-869B-D9451393E91F}|BookServiceGRPC\\BookServiceGRPC.csproj|solutionrelative:bookservicegrpc\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445C60FA-2FC0-4C8E-9C72-02B7742A4280}|LibraryGRPC\\LibraryGRPC.csproj|d:\\workspace\\redistest\\grpcservice\\bookservicegrpc\\librarygrpc\\abstractions\\ibookmanagerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445C60FA-2FC0-4C8E-9C72-02B7742A4280}|LibraryGRPC\\LibraryGRPC.csproj|solutionrelative:librarygrpc\\abstractions\\ibookmanagerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A68D04-9F74-494A-869B-D9451393E91F}|BookServiceGRPC\\BookServiceGRPC.csproj|d:\\workspace\\redistest\\grpcservice\\bookservicegrpc\\bookservicegrpc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3A68D04-9F74-494A-869B-D9451393E91F}|BookServiceGRPC\\BookServiceGRPC.csproj|solutionrelative:bookservicegrpc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445C60FA-2FC0-4C8E-9C72-02B7742A4280}|LibraryGRPC\\LibraryGRPC.csproj|d:\\workspace\\redistest\\grpcservice\\bookservicegrpc\\librarygrpc\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{445C60FA-2FC0-4C8E-9C72-02B7742A4280}|LibraryGRPC\\LibraryGRPC.csproj|solutionrelative:librarygrpc\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2A6625-F670-B198-4A3B-1DCAD7C59B98}|..\\CallGRPC\\CallGRPC.csproj|d:\\workspace\\redistest\\grpcservice\\callgrpc\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2A6625-F670-B198-4A3B-1DCAD7C59B98}|..\\CallGRPC\\CallGRPC.csproj|d:\\workspace\\redistest\\grpcservice\\callgrpc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2A6625-F670-B198-4A3B-1DCAD7C59B98}|..\\CallGRPC\\CallGRPC.csproj|d:\\workspace\\redistest\\grpcservice\\callgrpc\\controllers\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GRPCConfig.cs",
+              "DocumentMoniker": "D:\\Workspace\\RedisTest\\GRPCService\\BookServiceGRPC\\LibraryGRPC\\Provider\\GRPCConfig.cs",
+              "RelativeDocumentMoniker": "LibraryGRPC\\Provider\\GRPCConfig.cs",
+              "ToolTip": "D:\\Workspace\\RedisTest\\GRPCService\\BookServiceGRPC\\LibraryGRPC\\Provider\\GRPCConfig.cs*",
+              "RelativeToolTip": "LibraryGRPC\\Provider\\GRPCConfig.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T14:58:21.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookManagerOption.cs",
+              "DocumentMoniker": "D:\\Workspace\\RedisTest\\GRPCService\\BookServiceGRPC\\LibraryGRPC\\Abstractions\\BookManagerOption.cs",
+              "RelativeDocumentMoniker": "LibraryGRPC\\Abstractions\\BookManagerOption.cs",
+              "ToolTip": "D:\\Workspace\\RedisTest\\GRPCService\\BookServiceGRPC\\LibraryGRPC\\Abstractions\\BookManagerOption.cs",
+              "RelativeToolTip": "LibraryGRPC\\Abstractions\\BookManagerOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T15:43:42.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Workspace\\RedisTest\\GRPCService\\BookServiceGRPC\\BookServiceGRPC\\appsettings.json",
+              "RelativeDocumentMoniker": "BookServiceGRPC\\appsettings.json",
+              "ToolTip": "D:\\Workspace\\RedisTest\\GRPCService\\BookServiceGRPC\\BookServiceGRPC\\appsettings.json",
+              "RelativeToolTip": "BookServiceGRPC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-28T19:20:58.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\RedisTest\\GRPCService\\BookServiceGRPC\\BookServiceGRPC\\Program.cs",
+              "RelativeDocumentMoniker": "BookServiceGRPC\\Program.cs",
+              "ToolTip": "D:\\Workspace\\RedisTest\\GRPCService\\BookServiceGRPC\\BookServiceGRPC\\Program.cs",
+              "RelativeToolTip": "BookServiceGRPC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T15:48:08.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\RedisTest\\GRPCService\\CallGRPC\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CallGRPC\\Program.cs",
+              "ToolTip": "D:\\Workspace\\RedisTest\\GRPCService\\CallGRPC\\Program.cs*",
+              "RelativeToolTip": "..\\CallGRPC\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T14:48:07.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Workspace\\RedisTest\\GRPCService\\CallGRPC\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\CallGRPC\\appsettings.json",
+              "ToolTip": "D:\\Workspace\\RedisTest\\GRPCService\\CallGRPC\\appsettings.json",
+              "RelativeToolTip": "..\\CallGRPC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-28T20:00:01.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookManagerProvider.cs",
+              "DocumentMoniker": "D:\\Workspace\\RedisTest\\GRPCService\\BookServiceGRPC\\LibraryGRPC\\Provider\\BookManagerProvider.cs",
+              "RelativeDocumentMoniker": "LibraryGRPC\\Provider\\BookManagerProvider.cs",
+              "ToolTip": "D:\\Workspace\\RedisTest\\GRPCService\\BookServiceGRPC\\LibraryGRPC\\Provider\\BookManagerProvider.cs",
+              "RelativeToolTip": "LibraryGRPC\\Provider\\BookManagerProvider.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwEAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T15:01:38.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibraryGRPC",
+              "DocumentMoniker": "D:\\Workspace\\RedisTest\\GRPCService\\BookServiceGRPC\\LibraryGRPC\\LibraryGRPC.csproj",
+              "RelativeDocumentMoniker": "LibraryGRPC\\LibraryGRPC.csproj",
+              "ToolTip": "D:\\Workspace\\RedisTest\\GRPCService\\BookServiceGRPC\\LibraryGRPC\\LibraryGRPC.csproj",
+              "RelativeToolTip": "LibraryGRPC\\LibraryGRPC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-28T18:35:34.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CallGRPC.csproj",
+              "DocumentMoniker": "D:\\Workspace\\RedisTest\\GRPCService\\CallGRPC\\CallGRPC.csproj",
+              "RelativeDocumentMoniker": "..\\CallGRPC\\CallGRPC.csproj",
+              "ToolTip": "D:\\Workspace\\RedisTest\\GRPCService\\CallGRPC\\CallGRPC.csproj",
+              "RelativeToolTip": "..\\CallGRPC\\CallGRPC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-27T14:23:30.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookServiceGRPC.csproj",
+              "DocumentMoniker": "D:\\Workspace\\RedisTest\\GRPCService\\BookServiceGRPC\\BookServiceGRPC\\BookServiceGRPC.csproj",
+              "RelativeDocumentMoniker": "BookServiceGRPC\\BookServiceGRPC.csproj",
+              "ToolTip": "D:\\Workspace\\RedisTest\\GRPCService\\BookServiceGRPC\\BookServiceGRPC\\BookServiceGRPC.csproj",
+              "RelativeToolTip": "BookServiceGRPC\\BookServiceGRPC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-27T14:14:58.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LibraryGRPC",
+              "DocumentMoniker": "D:\\Workspace\\RedisTest\\GRPCService\\BookServiceGRPC\\LibraryGRPC\\LibraryGRPC.csproj",
+              "RelativeDocumentMoniker": "LibraryGRPC\\LibraryGRPC.csproj",
+              "ToolTip": "D:\\Workspace\\RedisTest\\GRPCService\\BookServiceGRPC\\LibraryGRPC\\LibraryGRPC.csproj",
+              "RelativeToolTip": "LibraryGRPC\\LibraryGRPC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-28T18:34:14.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBookManagerProvider.cs",
+              "DocumentMoniker": "D:\\Workspace\\RedisTest\\GRPCService\\BookServiceGRPC\\LibraryGRPC\\Abstractions\\IBookManagerProvider.cs",
+              "RelativeDocumentMoniker": "LibraryGRPC\\Abstractions\\IBookManagerProvider.cs",
+              "ToolTip": "D:\\Workspace\\RedisTest\\GRPCService\\BookServiceGRPC\\LibraryGRPC\\Abstractions\\IBookManagerProvider.cs",
+              "RelativeToolTip": "LibraryGRPC\\Abstractions\\IBookManagerProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T15:03:14.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Workspace\\RedisTest\\GRPCService\\CallGRPC\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "..\\CallGRPC\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Workspace\\RedisTest\\GRPCService\\CallGRPC\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "..\\CallGRPC\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:25:42.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "D:\\Workspace\\RedisTest\\GRPCService\\BookServiceGRPC\\BookServiceGRPC\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "BookServiceGRPC\\Services\\GreeterService.cs",
+              "ToolTip": "D:\\Workspace\\RedisTest\\GRPCService\\BookServiceGRPC\\BookServiceGRPC\\Services\\GreeterService.cs",
+              "RelativeToolTip": "BookServiceGRPC\\Services\\GreeterService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:32:26.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Workspace\\RedisTest\\GRPCService\\BookServiceGRPC\\BookServiceGRPC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BookServiceGRPC\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Workspace\\RedisTest\\GRPCService\\BookServiceGRPC\\BookServiceGRPC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BookServiceGRPC\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-27T14:27:08.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "greet.proto",
+              "DocumentMoniker": "D:\\Workspace\\RedisTest\\GRPCService\\BookServiceGRPC\\LibraryGRPC\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "LibraryGRPC\\Protos\\greet.proto",
+              "ToolTip": "D:\\Workspace\\RedisTest\\GRPCService\\BookServiceGRPC\\LibraryGRPC\\Protos\\greet.proto",
+              "RelativeToolTip": "LibraryGRPC\\Protos\\greet.proto",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBJwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-08-27T14:42:30.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "D:\\Workspace\\RedisTest\\GRPCService\\CallGRPC\\Controllers\\GreeterService.cs",
+              "RelativeDocumentMoniker": "..\\CallGRPC\\Controllers\\GreeterService.cs",
+              "ToolTip": "D:\\Workspace\\RedisTest\\GRPCService\\CallGRPC\\Controllers\\GreeterService.cs",
+              "RelativeToolTip": "..\\CallGRPC\\Controllers\\GreeterService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:26:01.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Workspace\\RedisTest\\GRPCService\\CallGRPC\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "..\\CallGRPC\\WeatherForecast.cs",
+              "ToolTip": "D:\\Workspace\\RedisTest\\GRPCService\\CallGRPC\\WeatherForecast.cs",
+              "RelativeToolTip": "..\\CallGRPC\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:46:35.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Workspace\\RedisTest\\GRPCService\\CallGRPC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\CallGRPC\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Workspace\\RedisTest\\GRPCService\\CallGRPC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\CallGRPC\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-27T14:47:36.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

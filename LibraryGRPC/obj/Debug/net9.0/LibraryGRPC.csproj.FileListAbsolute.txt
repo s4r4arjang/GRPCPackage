@@ -1,0 +1,12 @@
+D:\Workspace\RedisTest\GRPCService\BookServiceGRPC\LibraryGRPC\obj\Debug\net9.0\LibraryGRPC.csproj.AssemblyReference.cache
+D:\Workspace\RedisTest\GRPCService\BookServiceGRPC\LibraryGRPC\obj\Debug\net9.0\LibraryGRPC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\RedisTest\GRPCService\BookServiceGRPC\LibraryGRPC\obj\Debug\net9.0\LibraryGRPC.AssemblyInfoInputs.cache
+D:\Workspace\RedisTest\GRPCService\BookServiceGRPC\LibraryGRPC\obj\Debug\net9.0\LibraryGRPC.AssemblyInfo.cs
+D:\Workspace\RedisTest\GRPCService\BookServiceGRPC\LibraryGRPC\obj\Debug\net9.0\LibraryGRPC.csproj.CoreCompileInputs.cache
+D:\Workspace\RedisTest\GRPCService\BookServiceGRPC\LibraryGRPC\bin\Debug\net9.0\LibraryGRPC.deps.json
+D:\Workspace\RedisTest\GRPCService\BookServiceGRPC\LibraryGRPC\bin\Debug\net9.0\LibraryGRPC.dll
+D:\Workspace\RedisTest\GRPCService\BookServiceGRPC\LibraryGRPC\bin\Debug\net9.0\LibraryGRPC.pdb
+D:\Workspace\RedisTest\GRPCService\BookServiceGRPC\LibraryGRPC\obj\Debug\net9.0\LibraryGRPC.dll
+D:\Workspace\RedisTest\GRPCService\BookServiceGRPC\LibraryGRPC\obj\Debug\net9.0\refint\LibraryGRPC.dll
+D:\Workspace\RedisTest\GRPCService\BookServiceGRPC\LibraryGRPC\obj\Debug\net9.0\LibraryGRPC.pdb
+D:\Workspace\RedisTest\GRPCService\BookServiceGRPC\LibraryGRPC\obj\Debug\net9.0\ref\LibraryGRPC.dll
